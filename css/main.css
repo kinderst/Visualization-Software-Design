@@ -1,0 +1,13 @@
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css);
+
+
+h1 {
+	text-align: center;
+}
+
+.legend {
+	font-size: 12px;
+}
+rect {
+	stroke-width: 2;
+}
